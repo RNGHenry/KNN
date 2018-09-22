@@ -1,4 +1,4 @@
-#KNN writen with python#
+# KNN writen with python
 
 - Using pandas, numpy, scipy, tushare
 - The stock data is gotten by tushare
